@@ -1,127 +1,155 @@
-## Hey 👋, I'm Ashish Chaudhari
-  
-
-<a href="https://www.linkedin.com/in/ashish-chaudhari-089779197/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/ashishchaudhari1857" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://ashishchaudhari.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/ashishchaudhari/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
-</a>
-
-
-
-
-### Glad to see you here!  
-🎨 MERN Developer Focused on Frontend
-Hey there!
-
-I’m a MERN stack developer with a primary passion for frontend development. My expertise revolves around crafting dynamic, responsive, and intuitive user interfaces using React.
-
-What I bring to the table:
-
-Strong proficiency in React for building modern web applications.
-
-Hands-on experience with Node.js and Express on the backend, allowing me to understand full-stack workflows.
-
-Skill in integrating RESTful APIs and managing state effectively in complex applications.
-
-Familiarity with both client-side rendering (CSR) and server-side rendering (SSR) using tools like Remix.
-
-I thrive on bringing designs to life and ensuring that users have a seamless, engaging experience. While my main focus is the frontend, my MERN stack background gives me a holistic view of the entire web development process.
-
-I’m always eager to learn new libraries, frameworks, and best practices to stay at the cutting edge of frontend development.
-<br/>  
-
-
-## Rapidfire  
-![Profile views counter](https://komarev.com/ghpvc/?username=nistha01&&style=flat-square)  
-<table><tr><td valign="top" width="50%">
-
-🔭 I’m currently working on ** React ,Remix  , Node**  
-  
-
-🌱 I’m currently learning LLD and Database Desginging https://github.com/ashishchaudhari1857
-👨‍💻 All of my projects are available at [My gitHub](https://github.com/ashishchaudhari1857)
-  
-
-❓ Ask me about anything related to Java Backend and related technologies
-📫 How to reach me **ashishchaudhari1857@gmail.com**
-  
-
-⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%" border="none">
+# Hey 👋, I'm Ashish Chaudhari
 
 <div align="center">
-<img src="https://www.pngmart.com/files/22/Programmer-PNG-Free-Download.png" align="center" style="width: 70%" />
-</div>  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-chaudhari-089779197/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishchaudhari1857)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ashishchaudhari.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ashishchaudhari/)
 
-</td></tr></table>  
+![Profile Views](https://komarev.com/ghpvc/?username=ashishchaudhari1857&style=for-the-badge&color=blue)
 
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-  <table><tr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" />
-
-</td><td valign="" width="150%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="center" style="width: 60%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" align="center"/></p>
-
-
-</tr></table>  
 </div>
 
+---
 
-<br/>  
+## 🚀 About Me
 
-  
+**MERN Stack Developer | Frontend Specialist**
 
-<br/>  
+I'm a passionate full-stack developer specializing in building fast, scalable, and delightful user experiences. With deep expertise in **React** and modern frontend architectures, I create performant web applications that users love.
+
+### 💡 Core Expertise
+
+- ⚛️ **Frontend Mastery:** React, Remix, TypeScript, and modern UI patterns
+- 🧠 **State Management:** Redux, React Hook Form, Context API
+- 🔌 **Full-Stack Development:** REST APIs, SSR, Node.js, Express
+- 🗄️ **Database Design:** MongoDB, MySQL, Prisma ORM
+- ⚡ **Performance Optimization:** Code-splitting, lazy loading, memoization
+- 🤖 **AI Integration:** OpenAI, Claude, vector databases (Pinecone)
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Remix](https://img.shields.io/badge/Remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+**UI Libraries & Frameworks:**
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**APIs & Tools:**
+- REST APIs & WebSockets
+- JWT Authentication
+- Mongoose ODM
+
+### AI & ML Integration
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-%23000000.svg?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-%236AC8E6.svg?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Data & Analytics
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Quick Facts
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🔭 **Currently Working On:** React, Remix, and Node.js projects
+- 🌱 **Currently Learning:** Low-Level Design (LLD) & Advanced Database Design
+- 👨‍💻 **Portfolio:** Check out my projects on [GitHub](https://github.com/ashishchaudhari1857)
+- 💬 **Ask Me About:** Frontend Development, React, MERN Stack, Performance Optimization
+- 📫 **Reach Me:** [ashishchaudhari1857@gmail.com](mailto:ashishchaudhari1857@gmail.com)
+- ⚡ **Fun Fact:** Night mode is my default mode 🌙
+
+</td>
+<td width="40%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="100" alt="Node.js"/>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<!-- <div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishchaudhari1857&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishchaudhari1857&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="48%" />
 
 
-  
-
-<br/>  
-
-  
-
-<br/>  
+<img src="https://streak-stats.demolab.com?user=ashishchaudhari1857&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="70%" />
 
 
-<br />
+</div> -->
 
+---
+
+<div align="center">
+
+### 💼 Open for Collaboration
+
+I'm always interested in working on exciting projects and contributing to open-source!
+
+**Let's build something amazing together!** 🚀
+
+</div>
